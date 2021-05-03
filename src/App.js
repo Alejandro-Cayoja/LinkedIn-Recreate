@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="app">
       <h1>LinkedIn Recreate</h1>
+
+      { /* Header */}
+
+      { /* App Body */}
+          { /* Sidebar */}
+          { /* Feed */}
+          { /* Widgets */}
+
     </div>
   );
 }
